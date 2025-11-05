@@ -1,5 +1,5 @@
 # ThomasPortfolio
-Elanor Thomas's college code portfolio
+Three-tier architecture web app allowing users to query data from the 2018-19 bouldering wold cup circuit.
 
 This is an implementation of a web interface for users to query two databases (one Mongo, one postGres) containing the same data.
 The data is the results of climbing competitions in the 2018-19 bouldering wold cup circuit.
